@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -59,8 +61,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
