@@ -31,10 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0443-string-compression) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1927-sum-game) |
 ## Math
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1927-sum-game](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Euclidean Algorithm
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1386-cinema-seat-allocation](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1927-sum-game) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -78,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
