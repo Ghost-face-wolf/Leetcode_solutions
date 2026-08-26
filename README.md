@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1386-cinema-seat-allocation](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [1732-find-the-highest-altitude](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 ## Greedy
 |  |
