@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1872-stone-game-viii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1927-sum-game) |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
