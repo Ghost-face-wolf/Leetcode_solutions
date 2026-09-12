@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -106,11 +107,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0392-is-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1872-stone-game-viii) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Combinatorics
 |  |
 | ------- |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
