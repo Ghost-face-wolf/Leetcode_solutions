@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0835-image-overlap](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [1004-max-consecutive-ones-iii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
