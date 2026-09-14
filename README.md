@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1872-stone-game-viii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1872-stone-game-viii) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1657-determine-if-two-strings-are-close](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0835-image-overlap) |
+| [2352-equal-row-and-column-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Linked List
 |  |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
+## Simulation
+|  |
+| ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2352-equal-row-and-column-pairs) |
 <!---LeetCode Topics End-->
