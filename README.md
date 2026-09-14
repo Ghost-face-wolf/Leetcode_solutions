@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1657-determine-if-two-strings-are-close](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1927-sum-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Math
 |  |
@@ -189,4 +190,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2390-removing-stars-from-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2390-removing-stars-from-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
