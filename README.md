@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0394-decode-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -194,5 +196,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0394-decode-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
