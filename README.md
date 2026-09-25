@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1386-cinema-seat-allocation) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0443-string-compression](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0443-string-compression) |
 | [0940-distinct-subsequences-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1768-merge-strings-alternately) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Matrix
 |  |
@@ -205,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0394-decode-string) |
+| [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Design
@@ -227,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
