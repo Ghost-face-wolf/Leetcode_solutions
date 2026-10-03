@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0443-string-compression) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0392-is-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0940-distinct-subsequences-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1872-stone-game-viii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0394-decode-string) |
 | [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Binary Search Tree
