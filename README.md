@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0392-is-subsequence](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0443-string-compression) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Bracket Sequences
 |  |
