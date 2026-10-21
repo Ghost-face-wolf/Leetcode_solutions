@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
 | ------- |
