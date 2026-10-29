@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1927-sum-game](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1927-sum-game) |
 | [2390-removing-stars-from-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Math
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0700-search-in-a-binary-search-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -275,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -303,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ghost-face-wolf/Leetcode_solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
